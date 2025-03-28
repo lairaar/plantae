@@ -4,4 +4,4 @@ O projeto consiste no desenvolvimento de um aplicativo Android voltado para o cu
 
 Com uma interface intuitiva e um catálogo pré-definido de plantas, o aplicativo proporcionará maior autonomia aos usuários, facilitando o manejo agrícola e promovendo melhores práticas de cultivo. Para o desenvolvimento, serão utilizadas ferramentas de design para a interface e o PgAdmin para a implementação do banco de dados. Ao final do projeto, espera-se entregar um aplicativo funcional e acessível para otimizar a produção e o cuidado com as plantações.
 
-**apenas JS e PHP para visualização
+**apenas JS e PHP para visualização**
